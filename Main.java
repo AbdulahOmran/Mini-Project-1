@@ -7,11 +7,11 @@
   int todaysDate = 921;
   if (todaysDate > myBirthday)
   {
-System.out.println("I am " + myAge + " years old");
+    System.out.println("I am " + myAge + " years old");
   }
   else
   {
-System.out.println("I am still " + myAge + " years old");
+    System.out.println("I am still " + myAge + " years old");
   }
   }
 }
